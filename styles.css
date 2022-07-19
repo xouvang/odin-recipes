@@ -1,0 +1,26 @@
+body {
+    background: #8360c3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2ebf91, #8360c3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h1 {
+    text-align: center;
+    color: #f0e693; 
+    font-family: 'Trocchi', serif; 
+    font-size: 45px; 
+    font-weight: normal;
+    line-height: 48px;
+    margin: 0;
+}
+
+div {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Raleway', sans-serif;
+}
