@@ -1,1 +1,3 @@
 # odin-recipes
+My first Github repo
+Hello! welcome to my first ever project that I will be having with Odin today. I am excited to share my improvement along the way. My plan is to make a career change throughout this journey as I have saw the many ideas that you can create with this opportunity. I can not experss enough of how excited I am to be a part of this journey with many others who are also in my shoes. Thank you for reading my README and definitely stay tuned!
